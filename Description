@@ -1,0 +1,3 @@
+Here we try reducing dimesionality of dataset using PCA and train then test.
+then reducing dimesionality of dataset using LDA and train then test.
+Then compare test accuracies got after each method. 
